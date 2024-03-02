@@ -34,19 +34,3 @@
 
 <br>
 </div>
-
-
-#### Web developer / Back-end Developer
-I value the development culture where team members respect each other and exchange free opinions. I like to discuss technology issues with team members and I like code feedback. I'm greedy for growth. I especially want to grow with my team. I value money and whether we can grow together rather than the size of the company, and my goal is to become a developer I want to work with.
-<br>
-<br>
-I think the basic skills of a developer are CS. I believe that problem-solving capabilities will be developed through CS, so I have accumulated expertise in databases, networks, and operating systems, and have an understanding of the hardware, kernel, and user areas of the computer.
-<br>
-<br>
-Rather than looking at the number 100 code, I type once. I'm learning or studying new content while working on a project. When I was in college, I made a multi-threaded chat app or did packet analysis with Wireshark to study the network. Through five collaboration projects, I understood the web server architecture and was able to acquire web skills. If there's anything I want to learn, I'm working on a toy project.
-
-
-
-
-
-
